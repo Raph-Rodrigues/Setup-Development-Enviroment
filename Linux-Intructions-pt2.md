@@ -2,7 +2,7 @@
 
 Salve este script como, por exemplo, install-env-gui-engines.sh.
 
-Torne-o executável: chmod +x install-env-linux-gui-engines.sh.
+Torne-o executável: `chmod +x install-env-linux-gui-engines.sh`.
 
 Abra e edite o script. Para cada engine que você quiser instalar, remova os comentários # >>> e # <<< da função correspondente e da chamada (install_godot, install_unity, install_unreal).
 
