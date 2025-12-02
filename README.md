@@ -1,11 +1,11 @@
 # Setup-Development-Enviroment
 Instalação do meu Setup de desenvolvimento em diversos Sistemas Operacionais
 > **Quais SOs seriam esses? 🖥️**
-> - [Linux](##Linux) 🐧
+> - [Linux](##Linux🐧) 
 >   - Fedora
 >   - Arch Linux (_Incluso os baseados em Arch_)
 >   - Debian/Ubuntu (_Incluso todo seus derivados_)   
-> - [Windows](##Windows) 🪟
+> - [Windows](##Windows🪟) 
 ---
 ## Windows 🪟
 Os procedimentos para que se tenha o ambiente **_configurado e instalado em máquina Windows_** terá que seguir essas [instruções](https://github.com/Raph-Rodrigues/Setup-Development-Enviroment/blob/main/Windows-Instructions.md)
