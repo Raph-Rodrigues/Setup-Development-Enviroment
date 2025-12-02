@@ -22,23 +22,22 @@ Este documento descreve os softwares / frameworks / ferramentas / engines que pr
 
 ---
 
-## 🖥️ IDEs, Editores e Ferramentas de Desenvolvimento
+## 🖥️ IDEs, Editores
 
 - Visual Studio Code  
 - Rider (JetBrains)  
 - CLion (JetBrains)  
 - IntelliJ IDEA  
-- Zed (editor de código leve)  
-- IDEs / editores para Lua, Python, JS/TS, etc  
-
+- Zed (editor de código leve)
+  
 ---
 
 ## 🎮 Engines, Frameworks e Ferramentas para Jogos / UI / Multiplataforma
 
 - Unreal Engine (versão para Linux ou Windows conforme o caso)  
-- Unity (via Unity Hub) :contentReference[oaicite:9]{index=9}  
-- Godot Engine (versão Mono se desejar C#) — pode usar gerenciadores como `godl` via Flatpak. :contentReference[oaicite:11]{index=11}  
-- Framework de UI / multiplataforma: MonoGame (C#) — requer .NET SDK adequado. :contentReference[oaicite:13]{index=13}  
+- Unity (via Unity Hub) 
+- Godot Engine (versão Mono se desejar C#) — pode usar gerenciadores como `godl` via Flatpak. 
+- Framework de UI / multiplataforma: MonoGame (C#) — requer .NET SDK adequado. 
 - (Se aplicável) UI frameworks / bibliotecas como AvaloniaUI, .NET MAUI — para aplicações desktop multiplataforma  
 - Outras ferramentas, engines e frameworks conforme suas necessidades (2D/3D, jogos, aplicações, scripts, etc)  
 
@@ -76,4 +75,4 @@ Este documento descreve os softwares / frameworks / ferramentas / engines que pr
 
 ## 🧾 Conclusão
 
-Para a instalação do restante dos pacotes e configs verifique no Linux-Instructions-pt2.md
+Para a instalação do restante dos pacotes e configs verifique no [Linux-Instructions-pt2.md](https://github.com/Raph-Rodrigues/Setup-Development-Enviroment/blob/main/Linux-Intructions-pt2.md)
